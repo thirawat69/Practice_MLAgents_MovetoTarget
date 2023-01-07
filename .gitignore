@@ -1,0 +1,11 @@
+Library
+Logs
+obj
+Packages
+ProjectSettings
+UserSettings
+venv
+.vsconfig
+Assembly-CSharp.csproj
+ML-Agent.sln
+UpgradeLog.htm
