@@ -1,6 +1,6 @@
 # Practice_MLAgents_MovetoTarget
 This project is to practice using mlagents to train a model in Unity.
-> Folloeing this tutorial https://www.youtube.com/watch?v=zPFU30tbyKs&t=691s
+> Folloeing this [youtube](https://www.youtube.com/watch?v=zPFU30tbyKs&t=691s) and [ML Agents](https://github.com/Unity-Technologies/ml-agents)
 
 ![picture 1](https://github.com/thirawat69/Practice_MLAgents_MovetoTarget/blob/main/README_PICTURE/normalPlatform.jpg?raw=true)
 
@@ -16,11 +16,20 @@ We have 4  objects:
 
 When the simulation starts, the Agent walks randomly in the X and Z directions. When the Agent walks collide the Target, it reward is +1 and the Platform turns red. When the Agent walks collide the Wall, it reward is -1 and the Platform turns red. Each Starting round Target is randomly respawned on the Platform.
 - Before start training. Platform is gray.
+
 ![picture 1](https://github.com/thirawat69/Practice_MLAgents_MovetoTarget/blob/main/README_PICTURE/trainStart.jpg?raw=true)
+
+
 - Starting train model. Agent is walk randomly and has a lot mistake.
-![picture 1](https://github.com/thirawat69/Practice_MLAgents_MovetoTarget/blob/main/README_PICTURE/duringTrain1.jpg?raw=true)
+
+![picture 2](https://github.com/thirawat69/Practice_MLAgents_MovetoTarget/blob/main/README_PICTURE/duringTrain1.jpg?raw=true)
+
+
 - In the end. after training around 50,000 steps. Agent can walk efficiently.
-![picture 1](https://github.com/thirawat69/Practice_MLAgents_MovetoTarget/blob/main/README_PICTURE/efficientWalk.jpg?raw=true)
+
+![picture 3](https://github.com/thirawat69/Practice_MLAgents_MovetoTarget/blob/main/README_PICTURE/efficientWalk.jpg?raw=true)
+
+
 
 ## Getting Start
 **Python environment**
