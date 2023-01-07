@@ -43,13 +43,19 @@ mlagents-learn --help
 ```
 
 **Unity envirament**
+
 Editor version `2020.3.38f1`
+
 Package `ML Agent v2.2.1-exp.1`
 
-**Visual Studio Community **
+
+**Visual Studio Community**
+
 Version `2019` `16.11.18`
 
+
 **Train command**
+
 ```
 mlagents-learn
 ```
