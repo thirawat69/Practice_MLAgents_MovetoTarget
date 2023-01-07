@@ -1,6 +1,6 @@
 # Practice_MLAgents_MovetoTarget
 This project is to practice using mlagents to train a model in Unity.
-> Folloeing this [youtube](https://www.youtube.com/watch?v=zPFU30tbyKs&t=691s) and [ML Agents](https://github.com/Unity-Technologies/ml-agents)
+> Folloeing this [Code Monkey](https://www.youtube.com/watch?v=zPFU30tbyKs&t=691s) and [ML Agents](https://github.com/Unity-Technologies/ml-agents)
 
 ![picture 1](https://github.com/thirawat69/Practice_MLAgents_MovetoTarget/blob/main/README_PICTURE/normalPlatform.jpg?raw=true)
 
